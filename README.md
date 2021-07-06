@@ -1,9 +1,15 @@
-# Denoising-Documents
+# Practice
+
+This project is recording some DIY project for practice. (Hardly based on pytorch and opencv)
+
+## Denoising-Documents
 
 This project trying to participate in the kaggle competition [Denoising Dirty Documents](https://www.kaggle.com/c/denoising-dirty-documents/overview).
 
-### Reference documents:
+## GANs
 
-[DirtyDocuments](https://github.com/kayoyin/DirtyDocuments)
-[Denoising Dirty Documents](https://colinpriest.com/2015/08/01/denoising-dirty-documents-part-1/)
+This project trying to convert one domain 256x256 RGB image to another domain 256x256 images.
 
+## MNIST
+
+Makeing CNN and only convolution layer nn to classify MNIST images.
