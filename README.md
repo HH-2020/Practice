@@ -12,4 +12,4 @@ This project trying to convert one domain 256x256 RGB image to another domain 25
 
 ## MNIST
 
-Makeing CNN and only convolution layer nn to classify MNIST images.
+Makeing CNN model classify MNIST images.
